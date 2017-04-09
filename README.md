@@ -1,4 +1,4 @@
-# Electro Arduino Laboratory
+# Electronics Laboratory
 L'Astra Lab
 by Tania Molina
 
@@ -46,3 +46,21 @@ Code:
 Simulator:
 
 ![l astralab](https://cloud.githubusercontent.com/assets/22894897/24838330/84a70264-1d1c-11e7-8261-c870e9721355.gif)
+
+# 555 TIMER experiment:
+
+<img width="121" alt="screenshot 2017-04-09 14 20 34" src="https://cloud.githubusercontent.com/assets/22894897/24839391/dce8c3a0-1d2f-11e7-9888-7d70f52ddd47.png">
+
+Schematics:
+
+<img width="796" alt="screenshot 2017-04-09 14 46 49" src="https://cloud.githubusercontent.com/assets/22894897/24839582/bff348c0-1d33-11e7-8aaf-8aa7e1e048a7.png">
+
+LT Spice Simulator:
+
+<img width="881" alt="screenshot 2017-04-09 14 48 15" src="https://cloud.githubusercontent.com/assets/22894897/24839585/c6095362-1d33-11e7-8e81-14ed13adb5ae.png">
+
+<img width="881" alt="screenshot 2017-04-09 14 48 42" src="https://cloud.githubusercontent.com/assets/22894897/24839587/caed9af0-1d33-11e7-9947-3ff15d6ae116.png">
+
+Circuits.io Simulator:
+
+![555timer](https://cloud.githubusercontent.com/assets/22894897/24839395/e92ed2c6-1d2f-11e7-8735-6440fe76e7a6.gif)
