@@ -67,4 +67,4 @@ LT Spice Simulator:
 
 Circuits.io Simulator:
 
-![555timer](https://cloud.githubusercontent.com/assets/22894897/24839395/e92ed2c6-1d2f-11e7-8735-6440fe76e7a6.gif)
+![555timer](https://cloud.githubusercontent.com/assets/22894897/24839683/9151d39a-1d35-11e7-88a8-b16a3f195fe3.gif)
