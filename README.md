@@ -2,7 +2,7 @@
 L'Astra Lab
 by Tania Molina
 
-Testing circuits in a virtual laboratory with Arduino
+Electronic circuits in a virtual laboratory + Arduino
 
 <img width="1111" alt="screenshot 2017-04-09 11 37 49" src="https://cloud.githubusercontent.com/assets/22894897/24838188/5cc6e974-1d19-11e7-9a42-a2bba056ee78.png">
 
