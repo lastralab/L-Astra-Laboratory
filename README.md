@@ -8,30 +8,36 @@ Testing circuits in a virtual laboratory with Arduino
 
 Code:
 
-<code>//OSCILLOSCOPE LAB + ArduinoUno
+<pre>
+<font color="#aaaaaa">//OSCILLOSCOPE LAB + ArduinoUno</font>
 
-#define Potentiometer A2
-#define LED 13
-   
-int val = 10;        
+<font color="#5e6d03">#define</font> <font color="#ffffff">Potentiometer</font> <font color="#ffffff">A2</font>
+<font color="#5e6d03">#define</font> <font color="#ffffff">LED</font> <font color="#ffcd22">13</font>
+ &nbsp;&nbsp;
+<font color="#00979c">int</font> <font color="#ffffff">val</font> <font color="#aaaaaa">=</font> <font color="#ffcd22">10</font><font color="#ffffff">;</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-void setup() {
-  pinMode(LED, OUTPUT);  
-}
+<font color="#00979c">void</font> <font color="#5e6d03">setup</font><font color="#aaaaaa">(</font><font color="#aaaaaa">)</font> <font color="#aaaaaa">{</font>
+ &nbsp;<font color="#d35400">pinMode</font><font color="#aaaaaa">(</font><font color="#ffffff">LED</font><font color="#aaaaaa">,</font> <font color="#00979c">OUTPUT</font><font color="#aaaaaa">)</font><font color="#ffffff">;</font> &nbsp;
+<font color="#aaaaaa">}</font>
 
-void loop() {
-  val = analogRead(Potentiometer);    
-  digitalWrite(LED, HIGH);  
-  delay(val);                  
-  digitalWrite(LED, LOW);  
-  delay(val);                  
-}
+<font color="#00979c">void</font> <font color="#5e6d03">loop</font><font color="#aaaaaa">(</font><font color="#aaaaaa">)</font> <font color="#aaaaaa">{</font>
+ &nbsp;<font color="#ffffff">val</font> <font color="#aaaaaa">=</font> <font color="#d35400">analogRead</font><font color="#aaaaaa">(</font><font color="#ffffff">Potentiometer</font><font color="#aaaaaa">)</font><font color="#ffffff">;</font> &nbsp;&nbsp;&nbsp;
+ &nbsp;<font color="#d35400">digitalWrite</font><font color="#aaaaaa">(</font><font color="#ffffff">LED</font><font color="#aaaaaa">,</font> <font color="#00979c">HIGH</font><font color="#aaaaaa">)</font><font color="#ffffff">;</font> &nbsp;
+ &nbsp;<font color="#d35400">delay</font><font color="#aaaaaa">(</font><font color="#ffffff">val</font><font color="#aaaaaa">)</font><font color="#ffffff">;</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;<font color="#d35400">digitalWrite</font><font color="#aaaaaa">(</font><font color="#ffffff">LED</font><font color="#aaaaaa">,</font> <font color="#00979c">LOW</font><font color="#aaaaaa">)</font><font color="#ffffff">;</font> &nbsp;
+ &nbsp;<font color="#d35400">delay</font><font color="#aaaaaa">(</font><font color="#ffffff">val</font><font color="#aaaaaa">)</font><font color="#ffffff">;</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#aaaaaa">}</font>
 
-/*OP AMP:
+<font color="#aaaaaa">/*OP AMP:</font>
+<font color="#aaaaaa"></font>
+<font color="#aaaaaa">To use the oscilloscope with other components you have to wire the positive input</font>
+<font color="#aaaaaa">of the oscilloscope to the Vout of the Operational Amplifier and the negative</font>
+<font color="#aaaaaa">input of the oscilloscope to the positive input of the Op Amp (to get an Inverter Circuit).</font>
+<font color="#aaaaaa"></font>
+<font color="#aaaaaa">*/</font>
 
-To use the oscilloscope with other components you have to wire the positive input
-of the oscilloscope to the Vout of the Operational Amplifier and the negative
-input of the oscilloscope to the positive input of the Op Amp (to get an Inverter Circuit).
+</pre>
 
-*/</code>
+Simulator:
 
+![l astralab](https://cloud.githubusercontent.com/assets/22894897/24838330/84a70264-1d1c-11e7-8261-c870e9721355.gif)
