@@ -6,6 +6,11 @@ Electronic circuits in a virtual laboratory + Arduino
 
 <img width="1111" alt="screenshot 2017-04-09 11 37 49" src="https://cloud.githubusercontent.com/assets/22894897/24838188/5cc6e974-1d19-11e7-9a42-a2bba056ee78.png">
 
+Schematics:
+
+<img width="798" alt="screenshot 2017-04-09 12 18 20" src="https://cloud.githubusercontent.com/assets/22894897/24838466/b1b21c1a-1d1e-11e7-927d-e351dc05d2e2.png">
+
+
 Code:
 
 <pre>
