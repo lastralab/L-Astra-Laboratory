@@ -2,14 +2,13 @@
 L'Astra Lab
 by Tania Molina
 
-Electronic circuits in a virtual laboratory + Arduino
+A virtual laboratory for your electronic circuits.
 
 <img width="1111" alt="screenshot 2017-04-09 11 37 49" src="https://cloud.githubusercontent.com/assets/22894897/24838188/5cc6e974-1d19-11e7-9a42-a2bba056ee78.png">
 
 Schematics:
 
 <img width="798" alt="screenshot 2017-04-09 12 18 20" src="https://cloud.githubusercontent.com/assets/22894897/24838466/b1b21c1a-1d1e-11e7-927d-e351dc05d2e2.png">
-
 
 Code:
 
@@ -43,7 +42,7 @@ Code:
 
 </pre>
 
-Simulator:
+Circuits.io Simulator:
 
 ![l astralab](https://cloud.githubusercontent.com/assets/22894897/24838330/84a70264-1d1c-11e7-8261-c870e9721355.gif)
 
@@ -51,9 +50,7 @@ Simulator:
 
 <img width="787" alt="screenshot 2017-04-09 14 56 40" src="https://cloud.githubusercontent.com/assets/22894897/24839632/c76b36ac-1d34-11e7-9327-f343b438a8bf.png">
 
-
 ![screenshot 2017-04-09 14 54 45](https://cloud.githubusercontent.com/assets/22894897/24839619/7de0cf88-1d34-11e7-8fb6-b294525d6b19.png)
-
 
 Schematics:
 
