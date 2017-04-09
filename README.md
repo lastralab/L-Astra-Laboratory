@@ -49,7 +49,11 @@ Simulator:
 
 # 555 TIMER experiment:
 
-<img width="121" alt="screenshot 2017-04-09 14 20 34" src="https://cloud.githubusercontent.com/assets/22894897/24839391/dce8c3a0-1d2f-11e7-9888-7d70f52ddd47.png">
+<img width="787" alt="screenshot 2017-04-09 14 56 40" src="https://cloud.githubusercontent.com/assets/22894897/24839632/c76b36ac-1d34-11e7-9327-f343b438a8bf.png">
+
+
+![screenshot 2017-04-09 14 54 45](https://cloud.githubusercontent.com/assets/22894897/24839619/7de0cf88-1d34-11e7-8fb6-b294525d6b19.png)
+
 
 Schematics:
 
