@@ -75,7 +75,9 @@ Circuits.io Simulator:
 Parts:
 
 4 diodes 1N4007
+
 1 Capacitor 10,000uF min 0.4V
+
 1 LED
 
 <img width="828" alt="screenshot 2017-04-24 15 49 24" src="https://cloud.githubusercontent.com/assets/22894897/25353470/b7345304-2905-11e7-80f3-b17fbbcf04c7.png">
