@@ -48,7 +48,7 @@ Circuits.io Simulator:
 
 # 555 TIMER experiment:
 
-<img width="787" alt="screenshot 2017-04-09 14 56 40" src="https://cloud.githubusercontent.com/assets/22894897/24839632/c76b36ac-1d34-11e7-9327-f343b438a8bf.png">
+![paprika](https://cloud.githubusercontent.com/assets/22894897/26334858/545969d2-3f3e-11e7-9d96-87c87d86523e.gif)
 
 ![screenshot 2017-04-09 14 54 45](https://cloud.githubusercontent.com/assets/22894897/24839619/7de0cf88-1d34-11e7-8fb6-b294525d6b19.png)
 
@@ -60,11 +60,11 @@ LT Spice Simulator:
 
 Output Voltage:
 
-<img width="881" alt="screenshot 2017-04-09 14 48 15" src="https://cloud.githubusercontent.com/assets/22894897/24839585/c6095362-1d33-11e7-8e81-14ed13adb5ae.png">
+<img width="50%" alt="screenshot 2017-04-09 14 48 15" src="https://cloud.githubusercontent.com/assets/22894897/24839585/c6095362-1d33-11e7-8e81-14ed13adb5ae.png">
 
 LED Current:
 
-<img width="881" alt="screenshot 2017-04-09 14 48 42" src="https://cloud.githubusercontent.com/assets/22894897/24839587/caed9af0-1d33-11e7-9947-3ff15d6ae116.png">
+<img width="50%" alt="screenshot 2017-04-09 14 48 42" src="https://cloud.githubusercontent.com/assets/22894897/24839587/caed9af0-1d33-11e7-9947-3ff15d6ae116.png">
 
 Circuits.io Simulator:
 
