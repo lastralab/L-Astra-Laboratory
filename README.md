@@ -58,7 +58,7 @@ Schematics:
 
 LT Spice Simulator:
 
-<img width="50%" alt="screenshot 2017-04-09 14 48 15" src="https://cloud.githubusercontent.com/assets/22894897/24839585/c6095362-1d33-11e7-8e81-14ed13adb5ae.png"> <img width="50%" alt="screenshot 2017-04-09 14 48 42" src="https://cloud.githubusercontent.com/assets/22894897/24839587/caed9af0-1d33-11e7-9947-3ff15d6ae116.png">
+<img width="50%" alt="screenshot 2017-04-09 14 48 15" src="https://cloud.githubusercontent.com/assets/22894897/24839585/c6095362-1d33-11e7-8e81-14ed13adb5ae.png"><img width="50%" alt="screenshot 2017-04-09 14 48 42" src="https://cloud.githubusercontent.com/assets/22894897/24839587/caed9af0-1d33-11e7-9947-3ff15d6ae116.png">
 
 Circuits.io Simulator:
 
