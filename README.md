@@ -49,8 +49,6 @@ Circuits.io Simulator:
 
 ![paprika](https://cloud.githubusercontent.com/assets/22894897/26334858/545969d2-3f3e-11e7-9d96-87c87d86523e.gif)
 
-![screenshot 2017-04-09 14 54 45](https://cloud.githubusercontent.com/assets/22894897/24839619/7de0cf88-1d34-11e7-8fb6-b294525d6b19.png)
-
 Schematics:
 
 <img width="796" alt="screenshot 2017-04-09 14 46 49" src="https://cloud.githubusercontent.com/assets/22894897/24839582/bff348c0-1d33-11e7-8aaf-8aa7e1e048a7.png">
