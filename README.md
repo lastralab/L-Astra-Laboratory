@@ -124,5 +124,4 @@ decode_results results;
 
 ```
 
-<a href="https://taniamol.github.io/website/" target="_blank"><button><img src="https://raw.githubusercontent.com/TaniaMol/website/master/images/icon.svg?token=AV1ZMdCiYKwWHqY4t5J-nky1c6LT6y1oks5ZaPLowA%3D%3D" alt="l'astra lab icon" width="100px" background="transparent" opacity="0.5" padding="0;"/></button></a><br>
-<h2>Powered by L'Astra Lab</h2>
+<a href="https://taniamol.github.io/website/" target="_blank"><button><img src="icon.svg" alt="l'astra lab icon" width="100px" background="transparent" opacity="0.5" padding="0;"/></button></a><br>
