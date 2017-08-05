@@ -59,7 +59,7 @@ Schematics:
 
 Circuits.io Simulator:
 
-![555timer](https://cloud.githubusercontent.com/assets/22894897/24839683/9151d39a-1d35-11e7-88a8-b16a3f195fe3.gif)
+<img width="50%" src="https://cloud.githubusercontent.com/assets/22894897/24839683/9151d39a-1d35-11e7-88a8-b16a3f195fe3.gif">
 
 # Bike Dynamo Basics
 
