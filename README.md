@@ -123,4 +123,4 @@ decode_results results;
 ```
 <br>
 <br>
-<p align="center">Powered by <b>L'Astra Lab<b><br><a href="https://taniamol.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
+<p align="center"><a href="https://taniamol.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
