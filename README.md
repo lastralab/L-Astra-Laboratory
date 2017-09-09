@@ -11,7 +11,7 @@ Code:
 
 <pre>
 <font color="#aaaaaa">//OSCILLOSCOPE LAB + ArduinoUno</font>
-
+<font color="#aaaaaa">//Author: Niam Moltta</font>
 <font color="#5e6d03">#define</font> <font color="#ffffff">Potentiometer</font> <font color="#ffffff">A2</font>
 <font color="#5e6d03">#define</font> <font color="#ffffff">LED</font> <font color="#ffcd22">13</font>
  &nbsp;&nbsp;
