@@ -1,4 +1,6 @@
-//OSCILLOSCOPE LAB + ArduinoUno
+// OSCILLOSCOPE LAB + ArduinoUno
+// Author: Niam Moltta
+// L'Astra Lab
 
 #define Potentiometer A2
 #define LED 13
