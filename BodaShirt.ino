@@ -6,7 +6,7 @@
 #define AthleticBodyType 1 //LOL
 #define TeamWork 10
 
-int Tania = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
+int Niam = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
 int Grace = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
 
 void setup() {
