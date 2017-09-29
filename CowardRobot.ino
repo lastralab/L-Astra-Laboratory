@@ -1,5 +1,5 @@
 //Coward Robot
-//by Tania Molina
+//by Niam Moltta
 //this coward Starts reversing when it founds something close.
 
 #define E1 10  // Enable Pin for motor 1
