@@ -5,7 +5,7 @@
 // 
 // AnalogReadSerial
 // 
-// Made by Tania Melino
+// Author: Niam Moltta
 // License: MIT
 // Downloaded from: https://circuits.io/circuits/3657578-analogreadserial
 
