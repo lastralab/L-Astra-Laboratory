@@ -1,8 +1,7 @@
 /* code for no activity:
 
 // HOMESHH - Capstone Prototype
-// by Tania Molina.
-// All rights reserved.
+// by Niam Moltta
 
 const int Green =12;
 const int Blue =11;
