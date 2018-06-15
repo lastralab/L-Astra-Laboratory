@@ -18,7 +18,7 @@ void setup() {
 
 void loop() {
   
-  while(Tania + Grace == TeamWork) {
+  while(Niam + Grace == TeamWork) {
     
     digitalWrite(Love, HIGH);   //LIGHT ON 
       
