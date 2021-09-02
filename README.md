@@ -3,7 +3,7 @@ Home office: Let your people know when you are in a meeting.
 
 <img width="643" alt="Screen Shot 2021-09-02 at 11 42 23 AM" src="https://user-images.githubusercontent.com/22894897/131874898-e1c4e843-610e-4b4a-b68f-300c96184da2.png">
 
-Arduino file: https://github.com/lastralab/L-Astra-Laboratory/blob/master/MeetingIndicator.ino
+Arduino file: https://github.com/lastralab/L-Astra-Laboratory/blob/master/MeetingIndicator.ino <br />
 Tinkercad project: https://www.tinkercad.com/things/0seiGmH2P1Q-meeting-indicator
 
 # Electronics Laboratory
