@@ -1,3 +1,8 @@
+/**
+ * Dripping Springs, NM
+ * Date: 02/04/2017
+*/
+
 #define Love 13
 #define Patient 1
 #define Adventurous 1
@@ -6,8 +11,8 @@
 #define AthleticBodyType 1 //LOL
 #define TeamWork 10
 
-int Niam = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
-int Grace = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
+int T = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
+int G = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
 
 void setup() {
 
@@ -18,9 +23,9 @@ void setup() {
 
 void loop() {
   
-  while(Niam + Grace == TeamWork) {
+  while(T + G == TeamWork) {
     
-    digitalWrite(Love, HIGH);   //LIGHT ON 
+    digitalWrite(Love, HIGH); 
       
   }
 }
